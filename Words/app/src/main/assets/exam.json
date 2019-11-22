@@ -1,0 +1,272 @@
+{
+  "exam": [{
+    "id": 1,
+    "title": "Many of you are studying English and you may be___why it is so difficult to learn. It's actually not too difficult to learn.",
+    "a": "knowing",
+    "b": "wondering",
+    "c": "earning",
+    "d": "hearing",
+    "ok": "b"
+  },
+    {
+      "id": 2,
+      "title": "Complete sentence B using the correct reporting verb.A: My daughter said: ‘No,I’ m not eating meat!I’ m vegetarian now.’B: My daughter ______.",
+      "a": "denied eating meat",
+      "b": "offered not to eat meat",
+      "c": "refused to eat meat",
+      "d": "threatened not to eat meat",
+      "ok": "c"
+    },
+    {
+      "id": 3,
+      "title": "A: Jamie said: ‘I’ll never say anything bad about Jess again.B: Jamie ______ never say anything bad about Jess again.",
+      "a": "promised to",
+      "b": "threatened to",
+      "c": "offered to",
+      "d": "advised to",
+      "ok": "a"
+    },
+    {
+      "id": 4,
+      "title": "A: ‘You must never walk home alone after 7pm. It’s too dangerous,’ I said to Karina.B: I ______ Karina never to walk home alone after 7 pm.",
+      "a": "asked",
+      "b": "promised",
+      "c": "recommended",
+      "d": "warned",
+      "ok": "d"
+    },
+    {
+      "id": 5,
+      "title": "She wouldn’t let anyone pay. She ______ for everyone’s meal herself.",
+      "a": "insisted on paying",
+      "b": "suggested that she would pay",
+      "c": "threatened to pay",
+      "d": "agreed that she would pay",
+      "ok": "a"
+    },
+    {
+      "id": 6,
+      "title": "I ______ him a lift to the train station, but he said no and got a taxi instead.",
+      "a": "recommended giving",
+      "b": "regretted not giving",
+      "c": "offered to give",
+      "d": "agreed to give",
+      "ok": "c"
+    },
+    {
+      "id": 7,
+      "title": "The dentist ______ Angelo to stop eating so many sweets.",
+      "a": "offered",
+      "b": "advised",
+      "c": "accused",
+      "d": "promised",
+      "ok": "b"
+    },
+    {
+      "id": 8,
+      "title": "The musician ______ copying the music from another song, saying it was all her original music.",
+      "a": "admitted",
+      "b": "regretted",
+      "c": "suggested",
+      "d": "denied",
+      "ok": "d"
+    },
+    {
+      "id": 9,
+      "title": "The police ______ that 27 people had been taken to hospital.",
+      "a": "confirmed",
+      "b": "suggested",
+      "c": "promised",
+      "d": "encouraged",
+      "ok": "a"
+    },
+    {
+      "id": 10,
+      "title": "The team had a discussion _______ the tactics for the next game.",
+      "a": "for",
+      "b": "of",
+      "c": "by",
+      "d": "about",
+      "ok": "d"
+    },
+    {
+      "id": 11,
+      "title": "It was not until liberation that ___ to his hometown.",
+      "a": "did he return",
+      "b": "was he returned",
+      "c": "he did return",
+      "d": "he returned",
+      "ok": "d"
+    },
+    {
+      "id": 12,
+      "title": "-I'd like a pen which ___ well. -Will this one ___ ?",
+      "a": "writes; do",
+      "b": "writes; work",
+      "c": "is written; do",
+      "d": "is written; work",
+      "ok": "a"
+    },
+    {
+      "id": 13,
+      "title": "-Can you finish the writing on time? - ___.",
+      "a": "Never mind",
+      "b": "With pleasure",
+      "c": "No problem",
+      "d": "All right",
+      "ok": "c"
+    },
+    {
+      "id": 14,
+      "title": "Look! There are lots of ___ birds flying over the trees.",
+      "a": "funny red little",
+      "b": "funny litte red",
+      "c": "little funny red",
+      "d": "little red funny",
+      "ok": "b"
+    },
+    {
+      "id": 15,
+      "title": "The headmaster hurried to the concert hall only ___ the speaker ___.",
+      "a": "to find; left",
+      "b": "to find; gone",
+      "c": "finding; left",
+      "d": "finding; gone",
+      "ok": "b"
+    },
+    {
+      "id": 16,
+      "title": "Is this school ___ you visited last month?",
+      "a": "one",
+      "b": "the one",
+      "c": "that",
+      "d": "what",
+      "ok": "b"
+    },
+    {
+      "id": 17,
+      "title": "It was on the farm ___ we worked that I got to know her.",
+      "a": "that",
+      "b": "there",
+      "c": "which",
+      "d": "where",
+      "ok": "d"
+    },
+    {
+      "id": 18,
+      "title": "___ different life today is ___ what it was 30 years ago!",
+      "a": "How; from",
+      "b": "What a; from",
+      "c": "What; from",
+      "d": "How; with",
+      "ok": "a"
+    },
+    {
+      "id": 19,
+      "title": "They couldn't eat in a restaurant because ___ of them had ___ money on them.",
+      "a": "all; no",
+      "b": "any; no",
+      "c": "none; any",
+      "d": "no one; any",
+      "ok": "c"
+    },
+    {
+      "id": 20,
+      "title": "Sorry. I'm too busy to ___ for the moment.",
+      "a": "get through",
+      "b": "get away",
+      "c": "get off",
+      "d": "get together",
+      "ok": "b"
+    }, {
+      "id": 21,
+      "title": "I'd rather you___to me like that in front of my parents",
+      "a": "not speak",
+      "b": "don't talk",
+      "c": "didn't speak",
+      "d": "speaking",
+      "ok": "c"
+    },
+    {
+      "id": 22,
+      "title": "Did you remember___the dishes",
+      "a": "to wash",
+      "b": "washing",
+      "c": "wash",
+      "d": "washed",
+      "ok": "a"
+    },
+    {
+      "id": 23,
+      "title": "Do you know when the class__finishing",
+      "a": "is",
+      "b": "will",
+      "c": "is be ",
+      "d": "to be",
+      "ok": "a"
+    },
+    {
+      "id": 24,
+      "title": "He's been exercising in this gym ___ ten years",
+      "a": "since",
+      "b": "is",
+      "c": "for",
+      "d": "since",
+      "ok": "c"
+    },
+    {
+      "id": 25,
+      "title": "He's been exercising in this gym ___ ten years ago",
+      "a": "since",
+      "b": "is",
+      "c": "for",
+      "d": "since",
+      "ok": "d"
+    },
+    {
+      "id": 26,
+      "title": "It's about time we ___ because it is 4pm.",
+      "a": "leaving",
+      "b": "left",
+      "c": "to leave",
+      "d": "leave",
+      "ok": "b"
+    },
+    {
+      "id": 27,
+      "title": "You need to study really ___if you want HD",
+      "a": "hard",
+      "b": "hardest",
+      "c": "hardly",
+      "d": "harder",
+      "ok": "a"
+    },
+    {
+      "id": 28,
+      "title": "The house will ___at the beginning of the month.",
+      "a": "decorated",
+      "b": "decorate",
+      "c": "decorating",
+      "d": "be decorated",
+      "ok": "d"
+    },
+    {
+      "id": 29,
+      "title": "He ___gone to uni yesterday because no classmate saw him.",
+      "a": "wasn't have",
+      "b": "must have",
+      "c": "can't have",
+      "d": "couldn't have",
+      "ok": "c"
+    },
+    {
+      "id": 30,
+      "title": "_ do you have for dinner?",
+      "a": "When",
+      "b": "What",
+      "c": "Who",
+      "d": "Where",
+      "ok": "b"
+    }
+  ]
+}

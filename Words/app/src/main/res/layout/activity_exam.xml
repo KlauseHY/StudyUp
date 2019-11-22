@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary">
+        <TextView
+
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Exam"
+            android:layout_centerInParent="true"
+            android:textColor="#fff"
+            />
+    </RelativeLayout>
+    <TextView
+        android:layout_margin="10dp"
+        android:id="@+id/title"
+        android:textColor="@android:color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="title"/>
+    <RadioGroup
+        android:layout_margin="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:layout_marginTop="10dp"
+            android:id="@+id/rba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+        <RadioButton
+            android:layout_marginTop="10dp"
+            android:id="@+id/rbb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           />
+        <RadioButton
+            android:layout_marginTop="10dp"
+            android:id="@+id/rbc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+        <RadioButton
+            android:layout_marginTop="10dp"
+            android:id="@+id/rbd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+    </RadioGroup>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:visibility="gone"
+                android:id="@+id/bt_pre"
+                android:layout_marginLeft="30dp"
+                android:text="Previous"
+                android:textColor="#fff"
+                android:background="@drawable/bt_bg"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" />
+            <Button
+                android:id="@+id/bt_ok"
+                android:layout_marginLeft="30dp"
+                android:text="Submit"
+                android:textColor="#fff"
+                android:background="@drawable/bt_bg"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" />
+            <Button
+                android:id="@+id/bt_next"
+                android:layout_marginRight="30dp"
+                android:layout_marginLeft="30dp"
+                android:text="Next"
+                android:textColor="#fff"
+                android:background="@drawable/bt_bg"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </RelativeLayout>
+</LinearLayout>
